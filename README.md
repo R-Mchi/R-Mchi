@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Hansen Ade Rioza a <b>final year</b> undergraduate from <a href="https://www.its.ac.id"> <b>Institute of Technology Sepuluh Nopember</b>, Surabaya (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Hansen Ade Rioza a <b>final year</b> undergraduate from <a href="https://www.its.ac.id"> <b>Institute of Technology Sepuluh Nopember</b>, Surabaya</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>a Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Automation, Robotics, and IoT</b> 
   </em> 
