@@ -1,4 +1,18 @@
-<h1>Hi, I'm Hansen ! 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Hansen</h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <em>
+    Hello, I am Hansen Ade Rioza a <b>final year</b> undergraduate from <a href="https://www.its.ac.id"> <b>Institute of Technology Sepuluh Nopember</b>, Surabaya (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 <h2>👨‍💻 Robotics Projects:</h2>
 
@@ -16,8 +30,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="center" alt="JoshMadakor | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="center" alt="JoshMadakor | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" alt="JoshMadakor | Instagram" width="138px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
