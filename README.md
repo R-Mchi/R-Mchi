@@ -7,8 +7,8 @@
 <p align="center">
   <em>
     Hello, I am Hansen Ade Rioza a <b>final year</b> undergraduate from <a href="https://www.its.ac.id"> <b>Institute of Technology Sepuluh Nopember</b>, Surabaya (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>a Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Automation, Robotics, and IoT</b> 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -24,8 +24,14 @@
   - [Hide and Seek using Jetbot](https://github.com/b401-robotics/jetbot-high-level)
 - <b>Hardware for Robot</b>
   - [ESP For UniversalRobot 5e](https://github.com/R-Mchi/esp_UR5)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Machine Learning Project:</h2>
+
+- <b>Kotlin</b>
+  - [Vertimeter, app for Measure Jump Height](https://github.com/R-Mchi/vertimeter)
+- <b>KMeans</b>
+  - [Hepatitis C, Fibrosis, and Cirrhosis Detection Using K-Means Clustering](https://colab.research.google.com/drive/1aEoMhe8PMWxXkAT_WUK1NOkRrAeqJ-Q6?usp=sharing)
+
 
 
 <h2> 🤳 Connect with me:</h2>
